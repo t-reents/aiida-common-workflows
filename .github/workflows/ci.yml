@@ -87,5 +87,3 @@ jobs:
 
     - name: Run pytest
       run: pytest -sv tests -m minimal_install
-
-
